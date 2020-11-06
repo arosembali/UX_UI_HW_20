@@ -1,0 +1,64 @@
+body{
+    font-family: montserrat;
+    
+}
+ul {
+    padding: 10px 50px 25px 25px;
+
+}
+ .col{
+     padding: 20px 20px 10px 10px;
+ }
+
+ .hero2{
+    
+     width: 100%;
+ }
+
+ h2{
+     text-align: center;
+     font-size: 32px;
+     padding: 50px 50px 10px 10px;
+ }
+
+ .myProcess{
+     background-color: black;
+     color: white;
+ }
+
+ .siteNav{
+     background-color: black;
+     
+ }
+
+ a {
+    color: white;
+ }
+
+h3, p {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 15px 30px 30px;
+     
+ }
+
+ #userPersona{
+     width: 1000px;
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
+
+ }
+ #userInsights{
+    width: 700px;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+
+}
+
+.howMightWe{
+    padding:15px;
+    padding-top: 30px;
+}
