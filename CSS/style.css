@@ -58,7 +58,30 @@ h3, p {
 
 }
 
+#userFlow{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+
+}
+
 .howMightWe{
     padding:15px;
     padding-top: 30px;
+}
+
+.wireFrame {
+    width: 900px;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+   padding: 15px
+}
+
+.iterations{
+    display: inline-block;
+    width: 400px;
+    
+
 }
